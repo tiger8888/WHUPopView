@@ -1,4 +1,4 @@
-![image](https://github.com/tiger8888/WHUCalendar/blob/master/WHUPopView_Demo.gif)
+![image](https://github.com/tiger8888/WHUPopView/blob/master/WHUPopView_Demo.gif)
 
 ####仿淘宝选择窗口的弹出样式
 ---
